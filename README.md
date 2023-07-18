@@ -4,7 +4,7 @@
 
 ### Web
 
-Run this command:
+Under your flutter project directory, run this command:
 
 ```
 flutter build web --release --base-href="/<your-github-repo-name>/"
