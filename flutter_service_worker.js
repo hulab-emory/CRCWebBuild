@@ -4,10 +4,9 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "a7967141c0ce2c0d3d30256cd171655d",
-"index.html": "99a95bedc7086bf4d2b5e6faa8169880",
-"/": "99a95bedc7086bf4d2b5e6faa8169880",
-"main.dart.js": "a6cb64f23c4a84fffc38a9595f917ab4",
-"flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
+"index.html": "c874374c94a45f2bd084f82809bf31d7",
+"/": "c874374c94a45f2bd084f82809bf31d7",
+"main.dart.js": "ced866ad9039e3825ceed405842e7275",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
 "icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
@@ -25,11 +24,7 @@ const RESOURCES = {
 "assets/assets/swiper_pics/3.webp": "171549b0f313b9d966ef60866726ead8",
 "assets/assets/swiper_pics/2.gif": "88d32391ae2656f84909a906f8e02ae3",
 "assets/assets/fonts/Open_Sans/OpenSans-Italic-VariableFont_wdth,wght.ttf": "052b2e3b021951ebab1edfb44970ca82",
-"assets/assets/fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf": "92fc534e5843e42c3e9ab49bdf72298b",
-"canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
-"canvaskit/profiling/canvaskit.js": "c21852696bc1cc82e8894d851c01921a",
-"canvaskit/profiling/canvaskit.wasm": "371bc4e204443b0d5e774d64a046eb99",
-"canvaskit/canvaskit.wasm": "3de12d898ec208a5f31362cc00f09b9e"
+"assets/assets/fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf": "92fc534e5843e42c3e9ab49bdf72298b"
 };
 
 // The application shell files that are downloaded before a service worker can
