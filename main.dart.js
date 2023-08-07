@@ -55998,7 +55998,7 @@ p.Q=h
 p.ab()
 p=q.f
 n=J.ak(p)
-p=J.aeT(J.bB(n.i(p,"crcQuizUsers")),1)||J.aeT(J.P(J.P(n.i(p,"crcQuizUsers"),0),"score"),0.8)
+p=n.i(p,"crcQuizUsers")==null||J.aeT(J.bB(n.i(p,"crcQuizUsers")),1)||J.aeT(J.P(J.P(n.i(p,"crcQuizUsers"),0),"score"),0.8)
 n=q.r
 if(p)A.S_(!0,new A.aOb(f),n,t.z)
 else A.bv(n,!1).dk(null)}else A.dm(B.S,B.a7,"Internet issue, progress not saved!",B.h,B.a8)
