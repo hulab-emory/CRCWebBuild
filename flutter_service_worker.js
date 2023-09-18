@@ -4,8 +4,8 @@ const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "version.json": "a7967141c0ce2c0d3d30256cd171655d",
-"index.html": "85ea34b61e907ce664de11f3971164e5",
-"/": "85ea34b61e907ce664de11f3971164e5",
+"index.html": "2c640999d5e2e24b27ef216cfc4db5be",
+"/": "2c640999d5e2e24b27ef216cfc4db5be",
 "main.dart.js": "898322c1c181237f423f4e5691aa960c",
 "flutter.js": "a85fcf6324d3c4d3ae3be1ae4931e9c5",
 "favicon.png": "5dcef449791fa27946b3d35ad8803796",
@@ -25,9 +25,9 @@ const RESOURCES = {
 "assets/assets/swiper_pics/Homepage3.jpg": "65d02e285d90aae8bfcf369393f04bde",
 "assets/assets/swiper_pics/Homepage2.jpg": "e5a3820a47a7da731c5e49c25b164d3a",
 "assets/assets/swiper_pics/Homepage1.jpg": "7b32f4e14dd3d7cd3414669180f706a5",
-"assets/assets/slides/1.pdf": "98a0f2e0693e520a26800092c102990d",
-"assets/assets/slides/3.pdf": "472b11a2fcb534fc6df6eb27f7b33694",
-"assets/assets/slides/2.pdf": "10df43cfeadeff3a7d2137252f770c06",
+"assets/assets/slides/1.pdf": "5554b6380a611f6a18a241111db2eb05",
+"assets/assets/slides/3.pdf": "8faf54a90d295d425438170399f7110b",
+"assets/assets/slides/2.pdf": "cf4d3c92e199e794cffb5c7c15fa82fc",
 "assets/assets/fonts/Open_Sans/OpenSans-Italic-VariableFont_wdth,wght.ttf": "052b2e3b021951ebab1edfb44970ca82",
 "assets/assets/fonts/Open_Sans/OpenSans-VariableFont_wdth,wght.ttf": "92fc534e5843e42c3e9ab49bdf72298b",
 "canvaskit/canvaskit.js": "97937cb4c2c2073c968525a3e08c86a3",
